@@ -36,6 +36,9 @@ To use this tool, follow these steps:
 3. Make your changes and ensure all tests pass.
 4. Push your changes to your fork and submit a pull request.
 
+## License
+if you are willing to use the module for free i absolutely have no problem , just don't forget to mention me when using it ^.^
+
 
 
 
